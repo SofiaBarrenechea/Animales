@@ -1,0 +1,104 @@
+/* hola */
+body{
+    background-color:rgba(0, 0, 0, 0.973); margin: 0;
+align-items: center;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.644);
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    color: rgba(255, 255, 255, 0.644);
+    text-align: center;
+    font-size: 50px;
+}
+
+.tiburones a{
+    display: flex;
+    justify-content: center;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color:white
+}
+
+.shark{
+    width: 100%;
+}
+
+.t-tiburones{
+    text-align: justify;
+    margin: 50px;
+    width: 1235px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: rgba(255, 255, 255, 0.589);
+}
+
+.ballena a{
+    display: flex;
+    justify-content: center;   
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: white;
+}
+
+.whale{
+    width: 100%;
+}
+
+.b-ballenas{
+    text-align: justify;
+    margin: 50px;
+    width: 1235px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: rgba(255, 255, 255, 0.589);
+}
+
+.dolphin{
+    width: 100%;
+}
+
+.delfin a{
+    display: flex;
+    justify-content: center;  
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: white;
+}
+
+.d-delfines{
+    text-align: justify;
+    margin: 50px;
+    width: 1235px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: rgba(255, 255, 255, 0.589);
+}
+
+.listapeces{
+    text-align: justify;
+    margin: 50px;
+    width: 1235px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: rgba(255, 255, 255, 0.589);
+}
+
+.sabias{
+    color: rgba(0, 0, 255, 0.712);
+}
+
+h3{
+    color: rgba(68, 140, 199, 0.966);
+    text-align:left;
+    margin: 50px;
+}
+
+.animalesg{
+    margin-left: 20px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: rgba(68, 140, 199, 0.966);
+}
+
